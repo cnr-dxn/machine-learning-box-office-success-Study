@@ -14,25 +14,31 @@ A study on the major determining factors for box office performance in the film 
 api_call.ipynb
 ``
 the code to call the api and gather data
+
 ``
 feature_selection.ipynb
 ``
 the code that runs the RFECV to further select the features to speed up the performance of the model
+
 ``
 hyperparam_tuning.ipynb
 ``
 the code that runs the GridSearchCV  to select the paramaters for the XGBoost model
+
 ``
 model.ipynb
 ``
 runs the XGBoost model
+
 ``
 new_models.py
 ``
 runs the RandomForrestRegressor model
+
 ``
 Presentation.pptx, Report.pptx
 ``
 An analysis of the overall project
+
 
 **NOTE**: The datasets were too large to include in this repository, and thus had to be ommitted.
