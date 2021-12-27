@@ -1,0 +1,2 @@
+# machine-learning-box-office-success-Study
+A study on the major determining factors for box office performance in the film industry. This project analyzed and normalized past box office data utilizing The Movie Database (TMDB API), evaluated trends and patterns within said data, used said data to create models to predict the performance of upcoming films (utilizing machine learning libr, and ultimately determined what attributes dictate success for an upcoming film. 
